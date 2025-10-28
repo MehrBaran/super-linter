@@ -1,4 +1,4 @@
-# Super-Linter
+4d5921ed3ee160b3cd0f2fb93a2fb28a2b382516# Super-Linter
 
 Super-linter is a ready-to-run collection of linters and code analyzers, to help
 validate and fix your source code.
@@ -54,7 +54,7 @@ Here are some notable Super-linter features:
 Super-linter supports the following tools:
 
 | Language                          | Linters                                                                                                                                                                                                                   | Formatters                                                                                                         |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| -4d5921ed3ee160b3cd0f2fb93a2fb28a2b382516-------------------------------- | ----------------------------------------------------------------------------------------------4d5921ed3ee160b3cd0f2fb93a2fb28a2b382516----------------------------------------------------------------------0x264c1383ea520f73dd837f915ef3a732e204a493----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **Ansible**                       | [ansible-lint](https://github.com/ansible/ansible-lint)                                                                                                                                                                   | See YAML and Python formatters                                                                                     |
 | **Amazon States Language**        | [ASL Validator](https://github.com/ChristopheBougere/asl-validator)                                                                                                                                                       | See JSON formatters                                                                                                |
 | **AWS CloudFormation templates**  | [AWS CloudFormation Linter (cfn-lint)](https://github.com/aws-cloudformation/cfn-lint), [Checkov](https://www.checkov.io/)                                                                                                | See YAML formatters                                                                                                |
